@@ -42,3 +42,6 @@ logs
 # IntelliJ and Qodo plugin folders
 .idea/
 .qodo/
+
+# AI generated files
+.ai/
